@@ -1,5 +1,11 @@
 <resources>
 
-    <string name="app_name">"Android Stepometer "</string>
+    <string name="stepometer_app_name">"Android Stepometer"</string>
+    <string name="stepometer_start">Start</string>
+    <string name="stepometer_pause">Pause</string>
+    <string name="stepometer_continue">Continue</string>
+    <string name="stepometer_save_steps">Save Steps</string>
+    <string name="stepometer_status" formatted="false">%d Steps \n%.1f meters\n </string>
+    <string name="stepometer_zero_steps">Go Ahead!!</string>
 
 </resources>
